@@ -75,7 +75,7 @@ body {
   letter-spacing: -1px;
   word-break: break-all;
   line-height: 1.1;
-  text-shadow: 0 0 30px rgba(255, 255, 255, 0.15);
+  text-shadow: 0 0 30px rgba(255, 255, 255, 0.15); /* soft glow on result text */
 }
 
 /* ── Button Grid ── */
