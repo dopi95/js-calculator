@@ -153,7 +153,7 @@ body {
   box-shadow: 0 4px 16px rgba(0,0,0,0.4), 0 0 14px rgba(233,69,96,0.2);
 }
 
-/* ── Equals Button ── */
+/* ── Equals Button — bold red gradient with glow shadow ── */
 .btn.equals {
   background: linear-gradient(135deg, #e94560, #c0392b);
   color: #ffffff;
