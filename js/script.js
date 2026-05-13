@@ -49,7 +49,7 @@ function deleteLast() {
   resultEl.textContent = expression || '0';
 }
 
-// Keyboard support
+// Keyboard support — allows typing numbers and operators directly
 document.addEventListener('keydown', e => {
   if (e.key >= '0' && e.key <= '9') input(e.key);
   else if (['+', '-', '*', '/', '%', '.'].includes(e.key)) input(e.key);
