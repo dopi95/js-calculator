@@ -97,7 +97,7 @@ body {
   cursor: pointer;
   position: relative;
   overflow: hidden;
-  transition: transform 0.12s ease, box-shadow 0.12s ease;
+  transition: transform 0.12s ease, box-shadow 0.12s ease; /* smooth press animation */
   outline: none;
 }
 
